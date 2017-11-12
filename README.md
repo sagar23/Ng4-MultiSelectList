@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 MultiSelectList is a angular4 component empowers the single or multi select functionality on a provided list depending on the choice of selection. 
 Core logic of the selection sits in list.componenet.ts and implementation is in app.component.ts. Please npm install before use.
 
+##Working Plunker
+  https://plnkr.co/edit/HKuIxL?p=preview
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
